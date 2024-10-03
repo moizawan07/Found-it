@@ -12,9 +12,10 @@ function task(){
                 flag = "false"
             }
           }
-          if(flag === "true"){
+          if(flag == "true"){
             alert("Not found")
           }
         }
-        
+
+
         
